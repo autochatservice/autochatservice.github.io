@@ -84,4 +84,9 @@
     height: 275px;
     margin-left: initial;
   }
+}@font-face {
+  font-family: 'Aileron-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Aileron-Light.otf);
 }
